@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-23T00:02:38Z" name="Surefire suite" finished-at="2020-09-23T00:02:38Z" duration-ms="16">
+    <groups>
+    </groups>
+    <test started-at="2020-09-23T00:02:38Z" name="Surefire test" finished-at="2020-09-23T00:02:38Z" duration-ms="16">
+      <class name="qaclickacademy.Maven_Java.RestApiTest">
+        <test-method signature="deletetwitter()[pri:0, instance:qaclickacademy.Maven_Java.RestApiTest@27c6e487]" started-at="2020-09-23T00:02:38Z" name="deletetwitter" finished-at="2020-09-23T00:02:38Z" duration-ms="1" status="PASS">
+        </test-method> <!-- deletetwitter -->
+        <test-method signature="postJira()[pri:0, instance:qaclickacademy.Maven_Java.RestApiTest@27c6e487]" started-at="2020-09-23T00:02:38Z" name="postJira" finished-at="2020-09-23T00:02:38Z" duration-ms="0" status="PASS">
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.Maven_Java.RestApiTest -->
+      <class name="qaclickacademy.Maven_Java.SeleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:qaclickacademy.Maven_Java.SeleniumTest@3d3fcdb0]" started-at="2020-09-23T00:02:38Z" name="BrowserAutomation" finished-at="2020-09-23T00:02:38Z" duration-ms="1" status="PASS">
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementsUI()[pri:0, instance:qaclickacademy.Maven_Java.SeleniumTest@3d3fcdb0]" started-at="2020-09-23T00:02:38Z" name="elementsUI" finished-at="2020-09-23T00:02:38Z" duration-ms="0" status="PASS">
+        </test-method> <!-- elementsUI -->
+      </class> <!-- qaclickacademy.Maven_Java.SeleniumTest -->
+      <class name="qaclickacademy.Maven_Java.AppiumTest">
+        <test-method signature="IOSapps()[pri:0, instance:qaclickacademy.Maven_Java.AppiumTest@49070868]" started-at="2020-09-23T00:02:38Z" name="IOSapps" finished-at="2020-09-23T00:02:38Z" duration-ms="5" status="PASS">
+        </test-method> <!-- IOSapps -->
+        <test-method signature="nativeandroidapp()[pri:0, instance:qaclickacademy.Maven_Java.AppiumTest@49070868]" started-at="2020-09-23T00:02:38Z" name="nativeandroidapp" finished-at="2020-09-23T00:02:38Z" duration-ms="0" status="PASS">
+        </test-method> <!-- nativeandroidapp -->
+      </class> <!-- qaclickacademy.Maven_Java.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
